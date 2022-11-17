@@ -24,7 +24,7 @@ class AppBarWidget extends StatelessWidget implements PreferredSizeWidget {
               Expanded(
                 child: Column(
                   children: [
-                    Image.asset('assets/images/new_logo.png'),
+                    Image.asset('assets/images/logo.png'),
                     const Padding(
                       padding: EdgeInsets.only(top: 10),
                       child: Text(
